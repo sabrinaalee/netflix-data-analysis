@@ -10,6 +10,7 @@ The goal is to transform raw Netflix data into meaningful insights that help und
 - Kaggle Netflix Dataset
 
  Dashboard Preview
+ 
 ![Dashboard Screenshot](images/netflix_analysis-dashboard.png)
 Live Dashboard: https://public.tableau.com/shared/YHSW5J3CR?:display_count=n&:origin=viz_share_link
 
