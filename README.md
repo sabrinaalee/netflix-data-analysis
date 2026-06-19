@@ -1,7 +1,8 @@
 Netflix Content Trends Dashboard
 
- Project Overview
-This project analyzes Netflix’s content library to uncover trends in content type, production countries, genre distribution, and content growth over time. The analysis is visualized using an interactive dashboard built in Tableau.
+ Overview
+
+This project analyzes Netflix’s content library using an interactive dashboard built in Tableau. The goal is to explore trends in content type, production countries, genre distribution, and content growth over time.
 
 The goal is to transform raw Netflix data into meaningful insights that help understand how the platform’s content catalog has evolved.
 
