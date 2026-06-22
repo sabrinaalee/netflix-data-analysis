@@ -11,7 +11,7 @@ The goal is to transform raw Netflix data into meaningful insights that help und
 
  Dashboard Preview
  
-![Dashboard Screenshot](images/netflix%20Content%20Trends.png)
+![Dashboard Screenshot](images/netflix_Content_Trends.png)
 Live Dashboard: https://public.tableau.com/shared/YHSW5J3CR?:display_count=n&:origin=viz_share_link
 
  Key Insights
